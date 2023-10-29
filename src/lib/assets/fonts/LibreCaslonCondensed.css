@@ -1,0 +1,56 @@
+@font-face {
+	font-family: "LibreCaslonCondensed";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url("LibreCaslonCondensed-Regular.woff2") format("woff2");
+}
+@font-face {
+	font-family: "LibreCaslonCondensed";
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: url("LibreCaslonCondensed-Italic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "LibreCaslonCondensed";
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url("LibreCaslonCondensed-Medium.woff2") format("woff2");
+}
+@font-face {
+	font-family: "LibreCaslonCondensed";
+	font-style: italic;
+	font-weight: 600;
+	font-display: swap;
+	src: url("LibreCaslonCondensed-MediumItalic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "LibreCaslonCondensed";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url("LibreCaslonCondensed-SemiBold.woff2") format("woff2");
+}
+@font-face {
+	font-family: "LibreCaslonCondensed";
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src: url("LibreCaslonCondensed-SemiBoldItalic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "LibreCaslonCondensed";
+	font-style: normal;
+	font-weight: 800;
+	font-display: swap;
+	src: url("LibreCaslonCondensed-Bold.woff2") format("woff2");
+}
+@font-face {
+	font-family: "LibreCaslonCondensed";
+	font-style: italic;
+	font-weight: 800;
+	font-display: swap;
+	src: url("LibreCaslonCondensed-BoldItalic.woff2") format("woff2");
+}

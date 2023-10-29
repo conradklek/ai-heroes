@@ -3,3 +3,4 @@
 .env
 .env.development.local
 node_modules
+.DS_store
